@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",ABN Advocate Broadcasting Network
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/abntvng
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Africa TV3 [Not 24/7]
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Galaxy TV 
+https://5d846bfda90fc.streamlock.net:1935/live/galaxytv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Lagos Television [Not 24/7]
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",LoveWorld Persia
+https://bus-asia-east-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp22_main_all_transcode/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",NTA International [Not 24/7]
+https://api.visionip.tv/live/ASHTTP/visiontvuk-entertainment-ntai-hsslive-25f-4x3-MB/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Silverbird TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/silverbirdtv
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",TVC
+https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Wap TV
+https://newproxy3.vidivu.tv/waptv/index.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Wazobia Max TV Nigeria
+https://wazobia.live:8333/channel/wmax.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejio
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
