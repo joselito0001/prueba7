@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="",Canal 6 [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/canal6nicaraguaoficial
-
-#EXTINF:-1 group-title="",espejo
-http://138.117.4.70:8075/channel9/playlist.m3u8
-
 #EXTINF:-1 group-title="",Canal 9
 http://138.117.4.70:8075/channel9/playlist.m3u8
 
