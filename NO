@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+
+#EXTINF:-1 group-title="",Kanal 10 Asia
+http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+
+#EXTINF:-1 group-title="",TV2 Nyhetsstrømmen
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+
+#EXTINF:-1 group-title="",TV 2 Sport 1
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+
+#EXTINF:-1 group-title="",TV Modum
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
