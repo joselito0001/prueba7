@@ -73,3 +73,6 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
 
 #EXTINF:-1 group-title="",espejo
 https://stream.4fun.tv:8888/hls/4f.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://stream.4fun.tv:8888/hls/4f.m3u8
