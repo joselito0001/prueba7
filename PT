@@ -1,0 +1,142 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Kuriakos Music
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",RTP1
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",RTP3 [Not 24/7]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",RTP África [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title?"",RTP Internacional Asia
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",RTP Internacional [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",RTP Madeira (504p) [Not 24/7]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",SIC
+https://sic.live.impresa.pt/sic.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",SIC
+http://93.152.174.144:4000/play/sic/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",SIC Noticias
+https://sicnot.live.impresa.pt/sicnot.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV Maná 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV Maná 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV Maná Brazil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV Maná Córdoba [Not 24/7]
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV Maná English 
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV Maná Français
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV Maná Mozambique
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV MANA (RU)
+http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",TV Maná Español 
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:-1 group-title="",espejo
+http://162.212.178.69:41042/bysid/608
