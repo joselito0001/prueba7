@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="",AlmayaTV
-https://streamtape.com/v/G2b1Myo723UVde/La_Liga_-_FC_Barcelona_vs_Sevilla_FC_-_DAZN_LaLiga_-_6_de_febrero_de_2023.mp4
+#EXTINF:-1 group-title="", 1, El Secreto de la bola de Dragon
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Dragon%20Ball/Dragon%20Ball%20001%20-%20El%20secreto%20de%20la%20esfera%20del%20dragon.mp4
+
+#EXTINF:-1 group-title="",espejo
+https://www.onirikal.com/videos/mp4/assembly_line.mp4
+
+#EXTINF:-1 group-title="",2. La busqueda del emperador.
+http://fina.dyndns.tv/Cartoons/Dragon%20Ball/Dragon%20Ball/Dragon%20Ball%20002%20-%20La%20busqueda%20del%20emperador.mp4
 
 #EXTINF:-1 group-title="",espejo
 https://www.onirikal.com/videos/mp4/assembly_line.mp4
