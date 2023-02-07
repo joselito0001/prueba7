@@ -78,7 +78,7 @@ https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 #EXTINF:-1 group-title="",espejo
 https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
 
-#EXTINF:-1 tvg-id="SNT.py" status="online",SNT (480p)
+#EXTINF:-1 group-title="",SNT
 https://d4xunn272arip.cloudfront.net/hls/snt.m3u8
 
 #EXTINF:-1 group-title="",espejo
