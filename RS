@@ -1,0 +1,65 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="",Kurir TV
+https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",TV Pi Canal Pirot [Not 24/7]
+http://stream.pikanal.rs/pikanal/pgm.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",RTV 1 (576p)
+rtsp://212.200.255.151/rtv1
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",RTV 2 [Not 24/7]
+rtsp://212.200.255.151/rtv2
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",Sandzak TV
+https://vod1.laki.eu/sandzak/video.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",TV Duga Plus[Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",TV Hram [Not 24/7]
+https://vod1.laki.eu/live/hram/index.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",TV Pirot [Not 24/7]
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
+
+#EXTINF:-1 group-title="",Red TV
+https://live.rednet.rs/providus/redtv_multi.m3u8
