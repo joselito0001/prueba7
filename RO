@@ -1,0 +1,94 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",AgroTV [Not 24/7]
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+
+#EXTINF:-1 group-title="",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="",Alfa Omega TV [Not 24/7]
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+
+#EXTINF:-1group-title="" ,AntenaSport [Not 24/7]
+https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
+
+#EXTINF:-1 group-title="",Atomic TV 
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 group-title="",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/playlist.m3u8
+
+#EXTINF:-1 group-title="" ,Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 group-title="",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+
+#EXTINF:-1group-title="" ,Kanal D Romania
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+
+#EXTINF:-1 group-title="",Light Channel[Not 24/7]
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+
+#EXTINF:-1 group-title="",MoozDance
+https://rundle.deta.dev/hls/LIVE$MoozDance/6.m3u8/Level(19012010)?end=END&start=LIVE
+
+#EXTINF:-1 group-title="",MoozHits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+
+#EXTINF:-1 group-title="",MoozRo
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+
+#EXTINF:-1 group-title="",Naşul TV[Not 24/7]
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Prima TV [Not 24/7]
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Profit
+https://stream1.1616.ro:1945/profit/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="",Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8
+
+#EXTINF:-1 group-title="",TVR 3
+https://mn-nl.mncdn.com/tvr3_test/smil:tvr3_test.smil/index.m3u8
+
+#EXTINF:-1 group-title="",TVR Cluj
+https://mn-nl.mncdn.com/tvrcluj_new/smil:tvrcluj_new.smil/index.m3u8
+
+#EXTINF:-1 group-title="",TVR Craiova
+https://mn-nl.mncdn.com/tvrcraiova_new/smil:tvrcraiova_new.smil/index.m3u8
+
+#EXTINF:-1 group-title="",TVR Iasi
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+
+#EXTINF:-1 group-title="",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
+
+#EXTINF:-1 group-title="",TVR Targu-Mures
+https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
+
+#EXTINF:-1 group-title="",TVR Timisoara
+https://mn-nl.mncdn.com/tvrtimisoara_new/smil:tvrtimisoara_new.smil/index.m3u8
+
+#EXTINF:-1 group-title="",Antena 1 (Observator News)
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+
+#EXTINF:-1 group-title="",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 group-title="",Info TV România
+https://vmi347009.contaboserver.net/live/stream/index.m3u8
+
+#EXTINF:-1 group-title="",Kapital TV
+https://testcam.go.ro:8080/hls/livestream.m3u8
+
+#EXTINF:-1 group-title="",Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+
+#EXTINF:-1 group-title="",Realitatea Sportivă
+https://streamx.realitatea.net/realitatea/sportiva_md/playlist.m3u8
+
+#EXTINF:-1 group-title="",Realitatea Star 
+https://streamx.realitatea.net/realitatea/star_md/playlist.m3u8
