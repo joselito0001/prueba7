@@ -499,86 +499,83 @@ http://live-1.otcnet.ru/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="",ТВК 24
 http://air.tvk6.ru/tvk24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVMChannel.ru" status="online",TVMChannel (576p) [Geo-blocked]
+#EXTINF:-1 group-title="",TVMChannel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVTURTV.ru" status="blocked",ТВТУР (720p) [Geo-blocked]
+#EXTINF:-1 group-title="",ТВТУР 
 https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8
 
-#EXTINF:-1 tvg-id="U.ru" status="blocked",Ю (576p) [Geo-blocked]
+#EXTINF:-1 group-title="",Ю (576p) [Geo-blocked]
 https://strm.yandex.ru/kal/utv/utv0.m3u8
 
-#EXTINF:-1 tvg-id="UniverTV.ru" status="online",Univer TV (1080p)
+#EXTINF:-1 group-title="",Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Vetta24.ru" status="online",Ветта 24 (Пермь) (576p) [Not 24/7]
+#EXTINF:-1 group-title="",Ветта 24 (Пермь) (576p) [Not 24/7]
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VmesteRF.ru" status="online",Вместе-РФ (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="",Вместе-РФ (1080p) [Geo-blocked]
 http://uiptv.do.am/1ufc/118056781/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Yuvelirochka.ru" status="online",Ювелирочка ТВ (576p)
+#EXTINF:-1 group-title="",Ювелирочка ТВ (576p)
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zagorodnyy.ru" status="online" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Загородный (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1 group-title="",Загородный (480p)
 http://ott-cdn.ucom.am/s31/index.m3u8
 
-#EXTINF:-1 tvg-id="ZharPtitsa.ru" status="online",Жар Птица (404p) [Geo-blocked]
+#EXTINF:-1 group-title="",Жар Птица 
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ZooTV.ru" status="online" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Зоо ТВ (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1 group-title="" ,Зоо ТВ (480p)
 http://ott-cdn.ucom.am/s92/index.m3u8
 
-#EXTINF:-1 tvg-id="Zvezda.ru" status="online",Звезда (1080p) [Not 24/7]
+#EXTINF:-1 group-title="",Звезда [Not 24/7]
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",43 канал (720p)
+#EXTINF:-1 group-title="",43 канал (720p)
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Sochi Live HD (720p) [Not 24/7]
+#EXTINF:-1 group-title="",Sochi Live HD (720p) [Not 24/7]
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",TRK 555 (720p)
+#EXTINF:-1 group-title="",TRK 555 (720p)
 http://trk555.tv:8888/live
 
-#EXTINF:-1 tvg-id="" status="online" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Viasat History (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1 group-title="",Viasat History (480p)
 http://ott-cdn.ucom.am/s23/index.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Евразия (Орск) (720p)
+#EXTINF:-1 group-title="",Евразия (Орск) (720p)
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Евразия (Орск) (720p)
+#EXTINF:-1 group-title="",Евразия (Орск) (720p)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 
-#EXTINF:-1 tvg-id="" status="timeout",Крым 24 (540p) [Not 24/7]
+#EXTINF:-1 group-title="",Крым 24 (540p) [Not 24/7]
 http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Мир Белагорья (720p) [Geo-blocked]
+#EXTINF:-1 group-title="",Мир Белагорья (720p) [Geo-blocked]
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Надежда (720p)
+#EXTINF:-1 group-title="",Надежда (720p)
 https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Наше Крутое HD (1080p) [Not 24/7]
+#EXTINF:-1 group-title="",Наше Крутое HD (1080p) [Not 24/7]
 http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Радио Говорит Москва (Веб-камера) (720p)
+#EXTINF:-1 group-title="" ,Радио Говорит Москва (Веб-камера) (720p)
 https://video.govoritmoskva.ru/rufm/index.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Радио Пилот (720p) [Not 24/7]
+#EXTINF:-1 group-title="",Радио Пилот (720p) [Not 24/7]
 https://pilotfm.ru/cam/hls/pilothd.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",СТРК (720p) [Not 24/7]
+#EXTINF:-1 group-title="",СТРК (720p) [Not 24/7]
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Телеканал 86 (Сургут) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="",Телеканал 86 (Сургут) (1080p) [Not 24/7]
 https://sitv.ru/hls/s86.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Эхо TV (Рязань) (576p) [Not 24/7]
+#EXTINF:-1 group-title="",Эхо TV (Рязань) (576p) [Not 24/7]
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" status="online",Югра (576p)
+#EXTINF:-1 group-title="",Югра (576p)
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
