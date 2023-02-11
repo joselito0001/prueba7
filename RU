@@ -3,53 +3,104 @@
 #EXTINF:-1 group-title="",2x2 [Not 24/7]
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
 https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 group-title="",9 Волна 
 http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",360° [Not 24/7]
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1group-title="" ,Афонтово (Красноярск)
 http://xstream.afontovo.ru/afontovo_ya.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",ТК Алмазный край 
 https://stream.almaz-media.tv:8080/hls/576.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 group-title="",Арис 24 [Not 24/7]
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",Архыз 24
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 group-title="",Астрахань 24 
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 group-title="",Астрахань.Ru TV
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 group-title="",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",Бобер (576p) [Not 24/7]
 https://sc.id-tv.kz/bober.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 group-title="",БСТ
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",Центральное телевидение (ЦТВ)
 http://ott-cdn.ucom.am/s20/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",Пятый Канал 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 group-title="",Channel One
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
@@ -90,41 +141,40 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1, group-title=""like Gecko) Mobile/15E148",Пятница! International
 http://ott-cdn.ucom.am/s50/index.m3u8
 
-#EXTINF:-1 group-title="",Городской телеканал (Ярослав,Губерния (Самара) (576p)
+#EXTINF:-1 group-title="",Городской телеканал (Ярослав,Губерния (Самара)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Guberniya33.ru" status="online",Губерния 33 (Владимир) (360p)
+#EXTINF:-1 group-title="",Губерния 33 (Владимир)
 https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IndijskoeKino.ru" status="online",Индийское кино (576p) [Not 24/7]
+#EXTINF:-1 group-title="",Индийское кино [Not 24/7]
 https://sc.id-tv.kz/Indiiskoe_kino.m3u8
 
-#EXTINF:-1 tvg-id="Istoriya.ru" status="online" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",История (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+#EXTINF:-1 group-title="",История (480p)
 http://ott-cdn.ucom.am/s40/index.m3u8
 
-#EXTINF:-1 tvg-id="KabbalaTV.ru" status="online",Каббала ТВ (360p) [Not 24/7]
+#EXTINF:-1 group-title="",Каббала ТВ [Not 24/7]
 https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Karusel.ru" status="online" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Карусель (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
+#EXTINF:-1 group-title="",Карусель
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 
-#EXTINF:-1 tvg-id="Khabar24.kz" status="online",Хабар 24 (576p) [Not 24/7]
+#EXTINF:-1 group-title="",Хабар 24 [Not 24/7]
 https://sc.id-tv.kz/Khabar_24.m3u8
 
-#EXTINF:-1 tvg-id="Kinohit.ru" status="online",Кинохит (404p) [Not 24/7]
+#EXTINF:-1 group-title="",Кинохи [Not 24/7]
 https://sc.id-tv.kz/Kinohit_hd.m3u8
 
-#EXTINF:-1 tvg-id="Kinokomedija.ru" status="online",Кинокомедия (360p) [Not 24/7]
+#EXTINF:-1 group-title="",Кинокомедия [Not 24/7]
 https://sc.id-tv.kz/Kinokomediya_hd.m3u8
 
-#EXTINF:-1 tvg-id="Kinomiks.ru" status="online",Киномикс (1080p) [Not 24/7]
+#EXTINF:-1 group-title="",иномикс  [Not 24/7]
 https://sc.id-tv.kz/Kinomix_hd.m3u8
 
-#EXTINF:-1 tvg-id="Kinosemja.ru" status="online",Киносемья (1080p) [Not 24/7]
+#EXTINF:-1 group-title="",Киносемья [Not 24/7]
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-#EXTINF:-1 tvg-id="Kinosvidanie.ru" status="online",Киносвидание (1080p) [Not 24/7]
+
+#EXTINF:-1 group-title="",Киносвидание (1080p) [Not 24/7]
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 
 #EXTINF:-1 tvg-id="KonniyMir.ru" status="online",Конный Мир (576p) [Geo-blocked]
@@ -137,7 +187,6 @@ https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LenTV24.ru" status="online" user-agent="Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178",Лен ТВ 24 (540p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.84 Safari/537.36 CrKey/1.21a.76178
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 
 #EXTINF:-1 tvg-id="Leomax24.ru" status="online",Leomax 24 (1080p)
