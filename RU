@@ -6,7 +6,19 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/37
 #EXTINF:-1 group-title="",espejo
 https://hls.tv.3angels.ru/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
 #EXTINF:-1 group-title="",Три Ангела
+https://hls.tv.3angels.ru/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.tv.3angels.ru/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
 https://hls.tv.3angels.ru/stream.m3u8
 
 #EXTINF:-1 group-title="",espejo
@@ -17,9 +29,6 @@ http://cdn-01.bonus-tv.ru:8080/9volna/playlist.m3u8
 
 #EXTINF:-1 group-title="",espejo
 https://hls.tv.3angels.ru/stream.m3u8
-
-#EXTINF:-1 group-title="",360° [Not 24/7]
-https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
 #EXTINF:-1 group-title="",espejo
 https://hls.tv.3angels.ru/stream.m3u8
@@ -336,7 +345,7 @@ http://ott-cdn.ucom.am/s17/index.m3u8
 #EXTINF:-1 group-title="",НТВ Стиль (480p)
 http://ott-cdn.ucom.am/s77/index.m3u8
 
-#EXTINF:-1 tvg-id="NVKSakha.ru" status="online",НВК Саха (1080p) [Not 24/7]
+#EXTINF:-1 group-title="",НВК Саха (1080p) [Not 24/7]
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 
 #EXTINF:-1 group-title="",О! [Not 24/7]
