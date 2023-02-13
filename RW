@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",KC2
+https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist.m3u8
+
+#EXTINF:-1 group-title="",RTV Rwanda
+https://5c46fa289c89f.streamlock.net/rtv/rtv/playlist.m3u8
