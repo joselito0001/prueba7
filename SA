@@ -1,0 +1,226 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Al Ekhbariya
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Al Khalij [Not 24/7]
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Al Quran Al Kareem TV (Mecca)
+https://edge.taghtia.com/sa/7.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-titlt="",Al-Resalah
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://rotana.net/live-elressalah
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Al Saudiya [Not 24/7]
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Al Sunnah Al Nabawiyah TV (Medina)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Asharq News 
+https://ythls.onrender.com/channel/UCRJUVYt9gjg8MnlGacySUdg.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Atfal & Mawaheb TV
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Ayaat
+https://stream.holol.com/live/ayat/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Iqraa Europe Africa [Not 24/7]
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Iqraa [Not 24/7]
+https://jmc-live.ercdn.net/iqraa/iqraa.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Jeddah Radio
+https://edge.taghtia.com/sa/15.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Kaif TV [Not 24/7]
+http://82.212.74.2:8000/live/hls/7311.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",KSA Sports 1 [Not 24/7]
+https://edge.taghtia.com/sa/9.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",KSA Sports 2 [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/ksa-sports2
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",KSA Sports 3 [Not 24/7]
+https://edge.taghtia.com/sa/16.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",KSA Sports 4 [Not 24/7]
+https://edge.taghtia.com/sa/17.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",LBC
+https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Makkah TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Nidae AlIslam Radio
+https://edge.taghtia.com/sa/14.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Panorama FM 
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Quran Radio
+https://edge.taghtia.com/sa/13.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana Cinema
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana Cinema KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana Classic
+https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana Comedy 
+https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana Drama
+https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana Khalijia
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana Music (1080p)
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Saudia Radio
+https://edge.taghtia.com/sa/11.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",SBC [Not 24/7]
+https://edge.taghtia.com/sa/1.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",SSC Action Waleed [Not 24/7]
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Thikrayat TV[Not 24/7]
+https://edge.taghtia.com/sa/3.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",ZAD TV [Not 24/7]
+https://ythls.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",Al Riyadh Radio
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/riyadhradio
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://edge.taghtia.com/sa/2.m3u8
