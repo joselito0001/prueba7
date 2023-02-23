@@ -32,9 +32,6 @@ https://miracle.stream.boxigy.com/hls/miracle1.m3u8
 https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791553.m3u8
 https://i.imgur.com/PRh8iCp.png
 
-#EXTINF:-1 group-title="",espejo
-https://miracle.stream.boxigy.com/hls/miracle1.m3u8
-
 #EXTINF:-1 group-title="",Bloomberg Quicktake
 https://bloomberg-quicktake-1-se.samsung.wurl.tv/playlist.m3u8
 
